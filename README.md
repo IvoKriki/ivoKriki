@@ -10,4 +10,4 @@ I work analyzing, modeling and automating business processes for clients in the 
 
 - I'm currently practicing ...
 - <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" alt="C#" width="20" height="20"/>
-- <img src="https://www.flaticon.com/svg/vstatic/svg/226/226777.svg?token=exp=1615758257~hmac=305755aa6e95085fae12d8b7f0277f51" alt="Java"  width="20" height="20"/>
+- <img src="https://iconape.com/wp-content/files/zy/371206/svg/371206.svg" alt="Java"  width="20" height="20"/>
