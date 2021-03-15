@@ -6,7 +6,7 @@ I work analyzing, modeling and automating business processes for clients in the 
 - <img src="https://cdn.iconscout.com/icon/free/png-256/ibm-282120.png" alt="ibmbpm" width="20" height="20"/>
 - <img src="https://iconape.com/wp-content/png_logo_vector/javascript-js-logo.png" alt="js" width="20" height="20"/>
 - <img src="https://iconape.com/wp-content/png_logo_vector/html5-with-wordmark-color-logo.png" alt="html5" width="20" height="20"/>
-- <img src="https://iconape.com/wp-content/png_logo_vector/css3-logo.pngoken=exp=1615758861~hmac=ab6509f044767353697e4a157e5bc0bf" alt="css3" width="20" height="20"/>
+- <img src="https://iconape.com/wp-content/png_logo_vector/css3-logo.png" alt="css3" width="20" height="20"/>
 
 - I'm currently practicing ...
 - <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" alt="C#" width="20" height="20"/>
