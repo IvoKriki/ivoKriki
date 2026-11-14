@@ -1,3 +1,8 @@
+<p align="center">
+  Developer Java / Spring Boot · Angular · Lisboa 🇵🇹
+</p>
+
+```text
                                                             r
 
                                                iCyyXIIebeeICtx
@@ -43,4 +48,18 @@
                                           t  byyeCX UR yBy CRrxexe  i t x
                                       i              xtxi  rr  t CCIt i
                                       t
+```
 
+## 🛠️ Stack
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+## 📊 Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ivoKriki&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivoKriki&layout=compact&theme=tokyonight" height="160"/>
+</p>
